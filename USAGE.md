@@ -15,3 +15,17 @@ A biblioteca abaixo é necessária **para ambas as versões** (console e interfa
 Instalação da dependência:
 ```
 pip install requests
+````
+## Demonstração de uso
+Abaixo estão exemplos de execução das versões disponíveis do laboratório.  
+Ambas as versões foram testadas utilizando a mesma senha: **Tryhackme**.
+
+### Execução no terminal
+Exemplo de uso da aplicação em ambiente de linha de comando, exibindo a avaliação da força da senha e a verificação de exposição em vazamentos públicos.
+
+![Execução no terminal](images/password_check_terminal.jpeg)
+
+### Execução alternativa no console
+Execução da aplicação em modo console utilizando a mesma senha, permitindo comparar o comportamento entre as versões disponíveis.
+
+![Execução no console](images/password_check_console.jpeg)
